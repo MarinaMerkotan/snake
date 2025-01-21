@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snake/static/css/main.1344ed48.css",
+    "main.js": "/snake/static/js/main.88b46288.js",
+    "static/media/background.svg": "/snake/static/media/background.43efabf707874763cca6.svg",
+    "static/media/DigitalNumbers-Regular.ttf": "/snake/static/media/DigitalNumbers-Regular.cc3aac3fb51de512bd28.ttf",
+    "index.html": "/snake/index.html",
+    "main.1344ed48.css.map": "/snake/static/css/main.1344ed48.css.map",
+    "main.88b46288.js.map": "/snake/static/js/main.88b46288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1344ed48.css",
+    "static/js/main.88b46288.js"
+  ]
+}
