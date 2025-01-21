@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/snake/static/css/main.a2e3ebb1.css",
-    "main.js": "/snake/static/js/main.eb58a3e4.js",
+    "main.js": "/snake/static/js/main.810da70d.js",
     "static/media/background.svg": "/snake/static/media/background.43efabf707874763cca6.svg",
     "static/media/DigitalNumbers-Regular.ttf": "/snake/static/media/DigitalNumbers-Regular.cc3aac3fb51de512bd28.ttf",
     "index.html": "/snake/index.html",
     "main.a2e3ebb1.css.map": "/snake/static/css/main.a2e3ebb1.css.map",
-    "main.eb58a3e4.js.map": "/snake/static/js/main.eb58a3e4.js.map"
+    "main.810da70d.js.map": "/snake/static/js/main.810da70d.js.map"
   },
   "entrypoints": [
     "static/css/main.a2e3ebb1.css",
-    "static/js/main.eb58a3e4.js"
+    "static/js/main.810da70d.js"
   ]
 }
