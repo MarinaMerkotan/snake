@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  gap: 24px;
+}
+
+.score-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #0b1215;
+  border-radius: 5px;
+  width: 120px;
+  height: 50px;
+  background-color: #343233;
+}
+
+.score-count {
+  font-family: 'DigitalNumbers';
+  color: #f4f1ea;
+  font-size: 24px;
+}
+
+.canvas-container {
+  width: 628px;
+  height: 628px;
+  background: url('./assets//background.svg') no-repeat center center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  background: transparent;
+}
